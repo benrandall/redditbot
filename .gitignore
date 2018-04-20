@@ -10,3 +10,4 @@ target/
 # files
 authentication.ini
 .DS_Store
+/venv

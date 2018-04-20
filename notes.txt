@@ -1,0 +1,7 @@
+http://www.oracle.com/technetwork/java/javase/tech/minime-178277.html
+
+$ virtualenv -p python3 venv
+$ source venv/bin/activate
+$ (venv) pip install -r requirements.txt
+
+https://trac.ffmpeg.org/wiki/Concatenate#demuxer
