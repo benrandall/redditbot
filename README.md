@@ -1,2 +1,2 @@
 # redditbot
-Ben and Zara's Reddit Bot
+Ben and Z̶a̶r̶a̶'̶s̶  Adriana's Reddit Bot
